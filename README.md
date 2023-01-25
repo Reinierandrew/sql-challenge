@@ -10,23 +10,17 @@
   2. A list the first name, last name, and hire date for the employees who were hired in 1986.
   3. A list of the managers of each department along with their department number, department name, 
       employee number, last name and first name.
-4. List the department number for each employee along with that employee’s employee number, last name, 9rst name, and department name.
-5. List the 9rst name, last name, and sex of each employee whose 9rst name is Hercules and whose last name begins with the letter B.
-`. List each employee in the Sales department, including their employee number, last name, and 9rst name.
-7. List each employee in the Sales and Development departments, including their employee number, last name, 9rst name, and department name.
-b. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
-Requirements
-Data Modelling (10 points)
-Entity Relationship Diagram is included or table schemas provided for all tables (10 points)
-Data Engineeing (70 points)
-All required columns are de9ned for each table (10 points)
-Columns are set to the correct data type (10 points)
-Primary Keys set for each table (10 points)
-Correctly references related tables (10 points)
-Tables are correctly related using Foreign Keys (10 points)
-Correctly uses NOT NULL condition on necessary columns (10 points)
-Accurately de9nes value length for columns (10 points)
-Data Analysis
+  4. A list of the department number for each employee along with that employee’s employee number, 
+      last name, first name, and department name.
+  5. A list of the first name, last name, and sex of each employee whose first name is Hercules 
+      and whose last name begins with the letter B.
+  6. A list of each employee in the Sales department, including their employee number, last name, and first name.
+  7. A list of each employee in the Sales and Development departments, including their employee number, 
+      last name, first name, and department name.
+  8. A list of the frequency counts, in descending order, of all the employee last names 
+      (that is, how many employees share each last name)
+b.  List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
+
 
 
 ## Approach
