@@ -5,7 +5,7 @@
 ## Background
 - I was asked to lead a project looking at the people whom the company employed during the 1980s and 1990s. 
   All that remains of the employee database from that period are six CSV files.;
-- HR requested a 8 analyses and tables for which links can be found below in the Output section
+- HR requested 8 analyses and tables for which links can be found below in the Output section
   
 
 
