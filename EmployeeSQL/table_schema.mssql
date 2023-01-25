@@ -1,4 +1,5 @@
--- CREATE TABLES
+-- CREATE TABLES FOR PEWLETT HACKARD
+-- as per ERD created
 -- I am using NOT NULL for all as I wanted to determine if there were any 
 -- empty fields in the CSV's (which there were not)
 

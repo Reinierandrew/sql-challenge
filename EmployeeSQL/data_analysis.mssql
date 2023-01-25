@@ -1,4 +1,4 @@
--- DATA ANALYSIS
+-- DATA ANALYSIS FOR PEWLETT HACKARD
 -- There are a number of TRUE values in employees.first_name which is confusing so I will replace with 'No first name"
 	update employees
 	set first_name = replace (first_name, 'TRUE', 'No First Name');
