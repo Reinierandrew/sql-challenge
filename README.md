@@ -22,7 +22,7 @@
 
 ![ERDPewlettHackard](https://user-images.githubusercontent.com/112833174/214707578-6ec4b512-6502-4964-b4a0-d7115573f8c6.jpg)
 
-I was aked by HR to provide the following analyses and tables:
+The following analyses and tables are provided (links to CSVs):
   1. A list with the employee number, last and first name, sex, and salary of each employee.
   2. A list the first name, last name, and hire date for the employees who were hired in 1986.
   3. A list of the managers of each department along with their department number, department name, 
