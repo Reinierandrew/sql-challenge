@@ -15,4 +15,5 @@
 -  The sql file for the data analysis can be found in [data_analysis.mssql](https://github.com/Reinierandrew/sql-challenge/tree/main/EmployeeSQL)
 
 ## Output
-![Alt text](ERDPewlettHackard.jpg)
+
+![ERDPewlettHackard](https://user-images.githubusercontent.com/112833174/214707578-6ec4b512-6502-4964-b4a0-d7115573f8c6.jpg)
