@@ -32,3 +32,6 @@ The following analyses and tables are provided (links to CSVs):
   7. A list of each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.  [Link](https://github.com/Reinierandrew/sql-challenge/blob/main/EmployeeSQL/output/Q7.csv)
   8. A list of the frequency counts, in descending order, of all the employee last names 
       (that is, how many employees share each last name).  [Link](https://github.com/Reinierandrew/sql-challenge/blob/main/EmployeeSQL/output/Q8.csv)
+
+###Note
+The data_for_ERD files are a query and a result table that I used to both check that my schema was as I intended and subsequently used to create the ERD
