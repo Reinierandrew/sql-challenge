@@ -1,10 +1,6 @@
 # Pewlett Hackard Employee analysis
 
 
-[TOCM]
-
-[TOC]
-
 
 ## Background
 - I was asked to lead a project looking at the people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.;
@@ -19,4 +15,4 @@
 -  The sql file for the data analysis can be found in [data_analysis.mssql](https://github.com/Reinierandrew/sql-challenge/tree/main/EmployeeSQL)
 
 ## Output
-[![ERD](t "ERD")](https://github.com/Reinierandrew/sql-challenge/blob/1482970be3606dc87e77e0268575d50cee031a36/EmployeeSQL/ERD%20Pewlett%20Hackard.png "ERD")
+![Alt text](ERDPewlettHackard.jpg)
