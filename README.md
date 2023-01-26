@@ -36,5 +36,4 @@ The following analyses and tables are provided (links to CSVs):
 ### Note
 The data_for_ERD files are a query and a result table that I used to both check that my schema was as I intended and subsequently used to create the ERD
 
-
-[data_for_ERD.pdf](https://github.com/Reinierandrew/sql-challenge/files/10505297/data_for_ERD.pdf)
+![data_for_ERD](https://user-images.githubusercontent.com/112833174/214734323-6ba603f2-1a96-467a-99f0-5a9996bc8b33.png)
