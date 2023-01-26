@@ -13,10 +13,10 @@
 
 - I studied the CSV files to determine  how I would need to construct the database, including relationships between the files, the types and sizes of the data, and any inconsitencies such as empty fields and possible unclear entries.
 - I then created an ERD diagram to assist me in creating the various tables and constraints for the database.
-- The sql file for creating the table schema can be found in [table_schema.mssql](https://github.com/Reinierandrew/sql-challenge/blob/main/EmployeeSQL/table_schema.mssql)
+- The sql file for creating the table schema can be found in [table_schema.sql](https://github.com/Reinierandrew/sql-challenge/blob/main/EmployeeSQL/table_schema.sql)
 - I then used the results to create a file with the schema to load to an ERD package to generate the final ERD [ERD Pewlett Hackard.pdf](https://github.com/Reinierandrew/sql-challenge/blob/main/EmployeeSQL/ERD%20Pewlett%20Hackard.pdf)
 - I loaded the CSV files which can be found in the data directory and wrote the script to analyse the data and create the 8 tables the HR department has requested.
--  The sql file for the data analysis can be found in [data_analysis.mssql](https://github.com/Reinierandrew/sql-challenge/tree/main/EmployeeSQL)
+-  The sql file for the data analysis can be found in [data_analysis.sql](https://github.com/Reinierandrew/sql-challenge/blob/main/EmployeeSQL/data_analysis.sql)
 
 ## Output
 
@@ -35,3 +35,6 @@ The following analyses and tables are provided (links to CSVs):
 
 ### Note
 The data_for_ERD files are a query and a result table that I used to both check that my schema was as I intended and subsequently used to create the ERD
+
+![data_for_ERD](https://user-images.githubusercontent.com/112833174/214735295-569ec739-28ba-4667-bb84-ffc7b1971ac5.png)
+
